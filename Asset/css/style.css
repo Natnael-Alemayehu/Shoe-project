@@ -1,0 +1,6 @@
+.jumbotron{
+    margin-bottom: 0rem;
+}
+.navbar-nav .nav-link.active{
+    color: #e4e4e0 !important;
+}
