@@ -14,17 +14,17 @@ textarea, input {
       font-weight: normal;
       text-decoration: inherit;
   }
-  footer{
-      color: white;
-      bottom: auto;
-      width: 100%;
-      margin-top: 2rem;
-      font-size: small;
-  }
   .pStyle{
       font-size: 1rem;
       font-weight: bolder;
   }
+  footer{
+    color: white;
+    bottom: auto;
+    width: 100%;
+    margin-top: 2rem;
+    font-size: small;
+}
 
   .footer-bs {
     background-color: #3c3d41;
