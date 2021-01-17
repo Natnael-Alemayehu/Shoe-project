@@ -4,3 +4,23 @@
 .navbar-nav .nav-link.active{
     color: #e4e4e0 !important;
 }
+.contains{
+    width: 35%;
+}
+textarea, input {
+    padding:10px;
+      font-family: FontAwesome, "Open Sans", Verdana, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      text-decoration: inherit;
+  }
+  footer{
+      color: white;
+      background-color:#1e3542;
+      bottom: 0;
+      width: 100%;
+  }
+  .pStyle{
+      font-size: 2rem;
+      font-weight: bolder;
+  }
