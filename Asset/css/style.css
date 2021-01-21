@@ -151,6 +151,9 @@ textarea, input {
 .infoTab{
     font-weight: bold;
 }
+.cre{
+    font-size: large;
+}
 
 @media (min-width: 768px) {
 	.footer-bs .footer-nav, .footer-bs .footer-social, .footer-bs .footer-ns { 
