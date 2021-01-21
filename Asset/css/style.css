@@ -148,8 +148,8 @@ textarea, input {
     font-weight: 700;
     font-size: 20px;
 }
-.forlogin{
-    margin-top: 6rem;
+.infoTab{
+    font-weight: bold;
 }
 
 @media (min-width: 768px) {
